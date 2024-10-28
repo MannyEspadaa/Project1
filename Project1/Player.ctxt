@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=speed\ health\ attack\ defense
+comment1.target=Player(int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getHealth()
+comment3.params=health
+comment3.target=int\ setHealth(int)
+comment4.params=damage
+comment4.target=void\ damageTaken(int)
+comment5.params=monster
+comment5.target=void\ PlayerAttack(Entity)
+comment6.params=
+comment6.target=Room\ getCurrentRoom()
+comment7.params=room
+comment7.target=void\ setCurrentRoom(Room)
+comment8.params=entity
+comment8.target=void\ attack(Entity)
+numComments=9

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=DungeonGame
+comment1.params=player
+comment1.target=DungeonGame(Player)
+comment10.params=
+comment10.target=void\ nextFloor()
+comment11.params=
+comment11.target=void\ levelUpEntities()
+comment2.params=
+comment2.target=void\ start()
+comment3.params=room\ scanner
+comment3.target=void\ handleRoom(Room,\ java.util.Scanner)
+comment4.params=entity\ scanner
+comment4.target=void\ handleEntity(Entity,\ java.util.Scanner)
+comment5.params=item\ scanner
+comment5.target=void\ handleItem(Items,\ java.util.Scanner)
+comment6.params=scanner
+comment6.target=void\ handleExit(java.util.Scanner)
+comment7.params=entity\ scanner
+comment7.target=void\ fight(Entity,\ java.util.Scanner)
+comment8.params=entity
+comment8.target=void\ levelUpPlayer(Entity)
+comment9.params=
+comment9.target=void\ clearFloor()
+numComments=12

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SkeletonDino
+comment1.params=
+comment1.target=SkeletonDino()
+comment2.params=entity
+comment2.target=void\ attack(Entity)
+comment3.params=damage
+comment3.target=void\ damageTaken(int)
+numComments=4

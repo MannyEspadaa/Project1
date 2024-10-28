@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Shield
+comment1.params=defenseBoost
+comment1.target=Shield(int)
+comment2.params=player
+comment2.target=void\ use(Player)
+comment3.params=player
+comment3.target=void\ leave(Player)
+numComments=4

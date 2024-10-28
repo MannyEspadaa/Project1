@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=DungeonFloor
+comment1.params=difficulty
+comment1.target=DungeonFloor(int)
+comment2.params=
+comment2.target=void\ initializeRooms()
+comment3.params=
+comment3.target=Room\ getHead()
+comment4.params=
+comment4.target=Entity\ getRandomEntity()
+comment5.params=
+comment5.target=Items\ getRandomItem()
+comment6.params=index
+comment6.target=Room\ getRoom(int)
+comment7.params=
+comment7.target=Room\ getExitRoom()
+numComments=8

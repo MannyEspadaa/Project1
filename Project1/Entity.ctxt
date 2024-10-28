@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Entity
+comment1.params=
+comment1.target=int\ getSpeed()
+comment10.params=entity
+comment10.target=void\ attack(Entity)
+comment11.params=damage
+comment11.target=void\ damageTaken(int)
+comment2.params=
+comment2.target=int\ getDefense()
+comment3.params=
+comment3.target=int\ getAttack()
+comment4.params=
+comment4.target=int\ getHealth()
+comment5.params=speed
+comment5.target=int\ setSpeed(int)
+comment6.params=defense
+comment6.target=int\ setDefense(int)
+comment7.params=attack
+comment7.target=int\ setAttack(int)
+comment8.params=health
+comment8.target=int\ setHealth(int)
+comment9.params=
+comment9.target=void\ levelUpEntities()
+numComments=12

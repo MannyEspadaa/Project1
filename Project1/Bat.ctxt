@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bat
+comment1.params=
+comment1.target=Bat()
+comment2.params=entity
+comment2.target=void\ attack(Entity)
+comment3.params=damage
+comment3.target=void\ damageTaken(int)
+comment4.params=entity
+comment4.target=void\ rabies(Entity)
+comment5.params=
+comment5.target=void\ run()
+numComments=6
